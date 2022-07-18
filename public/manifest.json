@@ -1,0 +1,8 @@
+{
+  "short_name": "Grow Business",
+  "name": "Grow Business",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
